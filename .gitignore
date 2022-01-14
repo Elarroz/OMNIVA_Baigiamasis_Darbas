@@ -1,0 +1,5 @@
+packages/
+VSC_automation_projet/bin/Debug/nunit.framework.dll
+VSC_automation_projet/obj/
+.vs/
+VSC_automation_projet/bin/
