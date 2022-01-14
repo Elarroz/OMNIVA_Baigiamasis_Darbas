@@ -46,7 +46,7 @@ namespace VSC_automation_projet.Page_folder
 
         public void EvaluateFinalPrice(string ExpectedResult)
         {
-                Assert.AreEqual(ExpectedResult, _FinalPrice, "Price is incorrect");
+                Assert.AreEqual(ExpectedResult, _FinalPrice.Text, "Price is incorrect");
             
         }
     }

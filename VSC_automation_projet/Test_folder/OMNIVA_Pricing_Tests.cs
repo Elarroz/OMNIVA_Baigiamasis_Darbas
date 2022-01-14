@@ -10,7 +10,7 @@ using VSC_automation_projet.Page_folder;
 
 namespace VSC_automation_projet.Test_folder
 {
-    internal class OMNIVA_Pricing_Tests
+    internal class OMNIVA_Pricing_Tests : TestBase
     {
 
         private static IWebDriver _driver;
